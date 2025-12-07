@@ -1,0 +1,5 @@
+{
+  "name": "Guess the Number",
+  "description": "A modern, AI-enhanced number guessing game where you try to find the secret number between 1 and 10.",
+  "requestFramePermissions": []
+}
